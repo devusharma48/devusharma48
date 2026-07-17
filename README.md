@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Divyansh Sharma..!
 
-<!--
-**devusharma48/devusharma48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning C++, DSA, Python and Django
+- 💻 Interested in Backend Development and AIML Projects
+- 🚀 Building real-world projects
+- 📚 Solving LeetCode problems
+
+## 🛠️ Skills
+
+- C++
+- Python
+- Git
+- GitHub
+- Django (Learning)
+- MySQL
+
+## 📂 Featured Projects
+
+- 📌 Smart AI Powered Automation Tool (Gesture Controller)
+- 📌 Cafe Management System (Build in College as mini project)
+- 📌 Saas Application (Working)
+- 📌 Portfolio Website (Working)
+ 
+
+## 📫 Connect
+
+Email: divyansh777sharma@gmail.com 
